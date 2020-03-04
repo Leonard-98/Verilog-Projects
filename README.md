@@ -1,2 +1,2 @@
 # Verilog-Projects
-Small projects implemented at Digital Integrated Circuits 
+Small project implemented at Digital Integrated Circuits 
